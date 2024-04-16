@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 2em 0 2em 0;
+}
+
+.table {
+  width: 95%;
+  border: 1px solid gray;
+}

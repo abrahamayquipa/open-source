@@ -1,0 +1,43 @@
+<!--
+<table style="width:50%">
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Date</th>
+    <th>Type</th>
+  </tr>
+  <tr *ngFor="let holiday of holidays">
+    <td>{{ holiday.name }}</td>
+    <td>{{ holiday.description }}</td>
+    <td>{{holiday.date.datetime.day}}/{{holiday.date.datetime.month}}/{{holiday.date.datetime.year}}</td>
+    <td>{{ holiday.type }}</td>
+  </tr>
+</table>
+-->
+
+<mat-table [dataSource]="holidays">
+  <ng-container matColumnDef="name">
+    <mat-header-cell *matHeaderCellDef> Name </mat-header-cell>
+    <mat-cell *matCellDef="let holiday"> {{ holiday.name }} </mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="description">
+    <mat-header-cell *matHeaderCellDef> Description </mat-header-cell>
+    <mat-cell *matCellDef="let holiday"> {{ holiday.description }} </mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="date">
+    <mat-header-cell *matHeaderCellDef> Date </mat-header-cell>
+    <mat-cell *matCellDef="let holiday">
+      {{ holiday.date.datetime.day }}/{{ holiday.date.datetime.month }}/{{ holiday.date.datetime.year }}
+    </mat-cell>
+  </ng-container>
+
+  <ng-container matColumnDef="type">
+    <mat-header-cell *matHeaderCellDef> Type </mat-header-cell>
+    <mat-cell *matCellDef="let holiday"> {{ holiday.type }} </mat-cell>
+  </ng-container>
+
+  <mat-header-row *matHeaderRowDef="['name', 'description', 'date', 'type']"></mat-header-row>
+  <mat-row *matRowDef="let row; columns: ['name', 'description', 'date', 'type']"></mat-row>
+</mat-table>
