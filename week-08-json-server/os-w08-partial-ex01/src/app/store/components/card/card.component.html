@@ -1,0 +1,13 @@
+<section class="main-section">
+  <ng-container *ngFor="let product of products">
+    <mat-card class="card">
+      <img mat-card-image [src]="product.photoUrl" alt="product.photoUrl">
+      <span> {{product.title}} </span>
+      <span> {{product.description}} </span>
+      <span> {{product.title}} </span>
+      <span> ${{product.price}} </span>
+      <span> ${{product.bundleId }} </span>
+      <span> {{product.rating}} </span>
+    </mat-card>
+  </ng-container>
+</section>

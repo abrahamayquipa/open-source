@@ -1,0 +1,205 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Ember Mug 2",
+      "description": "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1914_11-gray_2048x.jpg?v=1694652126",
+      "price": 100,
+      "bundleId": 1,
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "title": "Ember Travel Mug 2",
+      "description": "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1914_02-white_2048x.jpg?v=1694652126",
+      "price": 150,
+      "bundleId": 1,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "title": "Ember Mug 2",
+      "description": "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1914_16-sandstone_2048x.jpg?v=1696306646",
+      "price": 100,
+      "bundleId": 1,
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "title": "Ember Travel Mug 2",
+      "description": "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1914_08-red_181d1671-3d2a-4faa-9951-0de4748b1ee8_2048x.jpg?v=1704390291",
+      "price": 150,
+      "bundleId": 2,
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "title": "Ember Mug 2",
+      "description": "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1914_06-rosegold_7ffea7e5-a2e7-410e-8022-b51d521d4076_2048x.jpg?v=1694646752",
+      "price": 100,
+      "bundleId": 2,
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "title": "Ember Mug 2",
+      "description": "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1910_04-gold-v2_93bfd7cb-6576-43af-9602-eab8b2fa0d22_2048x.jpg?v=1694652126",
+      "price": 100,
+      "bundleId": 3,
+      "rating": 4
+    },
+    {
+      "id": 8,
+      "title": "Ember Travel Mug 2",
+      "description": "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1910_07-stainlesssteel-v2_526e5c3c-8265-47ec-a1ae-9f38fb2ab4d3_2048x.jpg?v=1694652126",
+      "price": 150,
+      "bundleId": 3,
+      "rating": 4
+    },
+    {
+      "id": 9,
+      "title": "Ember Mug 2",
+      "description": "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1914_11-gray_2048x.jpg?v=1694652126",
+      "price": 100,
+      "bundleId": 1,
+      "rating": 4
+    },
+    {
+      "id": 10,
+      "title": "Ember Travel Mug 2",
+      "description": "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1914_02-white_2048x.jpg?v=1694652126",
+      "price": 150,
+      "bundleId": 1,
+      "rating": 4
+    },
+    {
+      "id": 11,
+      "title": "Ember Mug 2",
+      "description": "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1914_16-sandstone_2048x.jpg?v=1696306646",
+      "price": 100,
+      "bundleId": 1,
+      "rating": 4
+    },
+    {
+      "id": 12,
+      "title": "Ember Travel Mug 2",
+      "description": "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1914_08-red_181d1671-3d2a-4faa-9951-0de4748b1ee8_2048x.jpg?v=1704390291",
+      "price": 150,
+      "bundleId": 2,
+      "rating": 4
+    },
+    {
+      "id": 13,
+      "title": "Ember Mug 2",
+      "description": "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1914_06-rosegold_7ffea7e5-a2e7-410e-8022-b51d521d4076_2048x.jpg?v=1694646752",
+      "price": 100,
+      "bundleId": 2,
+      "rating": 4
+    },
+    {
+      "id": 14,
+      "title": "gaaaa",
+      "description": "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1910_04-gold-v2_93bfd7cb-6576-43af-9602-eab8b2fa0d22_2048x.jpg?v=1694652126",
+      "price": 100,
+      "bundleId": 3,
+      "rating": 4
+    },
+    {
+      "title": "nuevooooo",
+      "description": "1",
+      "photoUrl": "1",
+      "price": 1,
+      "bundleId": 1,
+      "rating": 1,
+      "id": 15
+    },
+    {
+      "title": "cambiate",
+      "description": "a",
+      "photoUrl": "claroooo",
+      "price": 1,
+      "bundleId": 1,
+      "rating": 1354,
+      "id": 16
+    }
+  ],
+  "bundles": [
+    {
+      "id": 1,
+      "title": "Ember Mug 2",
+      "description": "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1914_11-gray_2048x.jpg?v=1694652126",
+      "price": 100,
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "title": "Ember Travel Mug 2",
+      "description": "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1914_02-white_2048x.jpg?v=1694652126",
+      "price": 150,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "title": "Ember Mug 2",
+      "description": "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1914_16-sandstone_2048x.jpg?v=1696306646",
+      "price": 100,
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "title": "Ember Travel Mug 2",
+      "description": "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1914_08-red_181d1671-3d2a-4faa-9951-0de4748b1ee8_2048x.jpg?v=1704390291",
+      "price": 150,
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "title": "Ember Mug 2",
+      "description": "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1914_06-rosegold_7ffea7e5-a2e7-410e-8022-b51d521d4076_2048x.jpg?v=1694646752",
+      "price": 100,
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "title": "Ember Travel Mug 2",
+      "description": "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1914_05-copper-v2_040c1995-8165-45de-b64a-1d9b64590cc3_2048x.jpg?v=1694652126",
+      "price": 150,
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "title": "Ember Mug 2",
+      "description": "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1910_04-gold-v2_93bfd7cb-6576-43af-9602-eab8b2fa0d22_2048x.jpg?v=1694652126",
+      "price": 100,
+      "rating": 4
+    },
+    {
+      "id": 8,
+      "title": "Ember Travel Mug 2",
+      "description": "Designed for home or office, the Ember Mug 2 does more than simply keep your coffee hot.",
+      "photoUrl": "https://ember.com/cdn/shop/files/ember_CM1910_07-stainlesssteel-v2_526e5c3c-8265-47ec-a1ae-9f38fb2ab4d3_2048x.jpg?v=1694652126",
+      "price": 150,
+      "rating": 4
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+.main-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 2em;
+}
+
+.card {
+  width: 20em;
+  padding: 2em;
+  border-radius: 1em;
+  margin: 2em;
+}
