@@ -1,0 +1,22 @@
+<h2>Product Form</h2>
+
+<form (ngSubmit)="createProduct()">
+  <input id="title" type="text" placeholder="Title" [(ngModel)]="product.title" name="title" required><br>
+  <input id="description" type="text" placeholder="Description" [(ngModel)]="product.description" name="description" required><br>
+  <input id="photoUrl" type="text" placeholder="Photo URL" [(ngModel)]="product.photoUrl" name="photoUrl" required><br>
+  <input id="price" type="number" placeholder="Price" [(ngModel)]="product.price" name="price" required><br>
+  <input id="bundleId" type="number" placeholder="Bundle ID" [(ngModel)]="product.bundleId" name="bundleId" required><br>
+  <input id="rating" type="number" placeholder="Rating" [(ngModel)]="product.rating" name="rating" required><br>
+  <button type="submit" [disabled]="addIsDisable">Add Product</button>
+  <button (click)="updateProduct(product.id, product)" [disabled]="updateIsDisable">Update Product</button>
+</form>
+
+<h2>Product List</h2>
+
+<ul>
+  <li *ngFor="let product of products">
+    {{ product.title }} - {{ product.description }} - {{ product.price }} - {{ product.bundleId }} - {{ product.rating }}
+    <button (click)="getProductById(product.id)">Update</button>
+    <button (click)="deleteProduct(product.id)">Delete</button>
+  </li>
+</ul>
